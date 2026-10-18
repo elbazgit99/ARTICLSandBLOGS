@@ -1,5 +1,5 @@
 # MOST COMMEN git COMMANDS
-clone single branch : git clone --branch name --single-branch https://github.com/username/project.git  
+clone single branch : git clone --branch name --single-branch < URL>  
 
 Current local branch name : git branch --show-current   
 Remote branches : git branch -r
