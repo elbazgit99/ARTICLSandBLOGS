@@ -5,7 +5,15 @@ push empty commit:
 run : 
 ```bash
 git commit --allow-empty -m "Trigger Build"
-```  
+```
+
+rename branch 
+run : 
+```bash
+git switch branch name
+git branch -m new name
+``` 
+
 clean working tree :  
 run : 
 
