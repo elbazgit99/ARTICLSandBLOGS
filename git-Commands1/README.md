@@ -1,5 +1,11 @@
 # MOST COMMEN git COMMANDS
 
+
+push empty commit:  
+run : 
+```bash
+git commit --allow-empty -m "Trigger Build"
+```  
 clean working tree :  
 run : 
 
