@@ -1,5 +1,23 @@
 # MOST COMMEN git COMMANDS
+ to delete a local branch only run :  
+ ```bash
+git branch -d <branch-name>
+```
 
+Remote Deletion :
+ ```bash
+Use git push origin --delete <branch-name>
+```
+to force
+```bash
+git branch -D <branch-name>
+```
+
+push empty commit:  
+run : 
+```bash
+git commit --allow-empty -m "Trigger Build"
+```
 
 push empty commit:  
 run : 
