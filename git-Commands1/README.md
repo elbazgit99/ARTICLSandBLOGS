@@ -6,7 +6,7 @@ git branch -d <branch-name>
 
 Remote Deletion :
  ```bash
-Use git push origin --delete <branch-name>
+git push origin --delete <branch-name>
 ```
 to force
 ```bash
